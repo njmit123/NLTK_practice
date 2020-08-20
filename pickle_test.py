@@ -15,3 +15,4 @@ t1 = pickle.load(f1)
 for i in t1:
     print(i.name)
 f1.close()
+

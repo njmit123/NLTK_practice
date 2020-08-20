@@ -319,6 +319,7 @@
  'redeemed': 'singled out',
  'regretful': 'sad',
  'rejected': 'alone',
+ 'relaxed': 'happy',
  'released': 'free',
  'remorse': 'sad',
  'replaced': 'hated',
